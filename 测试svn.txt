@@ -1,0 +1,5 @@
+克隆代码时选择ssh的路径，路径格式如下
+git@github.com:lilaobiao/lilaobiao.github.io.git
+
+clone的时候，把github.com改成lilaobiao对应的host别名
+git clone git@lilaobiao.com:lilaobiao/lilaobiao.github.io.git即可克隆
